@@ -1,0 +1,33 @@
+body{
+  background-color:#e6e6e6;
+  margin:80px;
+}
+
+header{
+  background-color:#afbebe;
+  color:#fff;
+  margin:80px auto;
+  height:130px;
+}
+
+header h1{
+  font-size:40px;
+  text-align:center;
+  padding:35px;
+}
+
+.inst-txt{
+  margin-bottom:80px;
+  text-align:center;
+}
+
+li {
+    cursor: pointer;
+    margin-bottom: 10px;
+    font-size :18px;
+  }
+
+.main-container p{
+  font-size:20px;
+  border-bottom:#afbebe solid;
+}
