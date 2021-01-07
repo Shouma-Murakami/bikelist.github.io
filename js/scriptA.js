@@ -7,7 +7,7 @@ $(function(){
     $('.list-item').css('color','black');
   });
   $('.list-item').longpress(function(e){
-    $('.list-item').css('color','black');
+    $(this).css('color','black');
   },function(e){
     $(this).css('color','red');
   })
